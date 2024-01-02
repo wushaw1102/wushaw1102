@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wushaw1102
+- 👋 Hi, I’m @  Shaw Wu0012
 - 👀 I'm interested in discovering the use of new AI techniques
 - 🌱 I’m currently learning new era artificial intelligence technology
 - 💞️ I’m looking to collaborate on write some CSDN
